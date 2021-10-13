@@ -34,7 +34,7 @@ mpirun -np 48 /opt/vasp/vasp.5.4.4/bin/vasp_std
 cp -f KPATH.in KPOINTS
 
 ```
-vasp主要运用密度泛函理论（DFT）计算电子体系的能量，由于DFT计算的局限性，vasp最多同时处理10000个电子，难以处理上千原子的巨大体系，尤其难以处理不规则巨型原子团，在运用vasp计算时，要构建好primitive cell & superlattice，并控制好晶格常数和原子数量。除了vasp，CP2K Linear Scaling Self Consistent Field Method和BigDFT等更适合进行上千甚至上万原子体系的计算，但是动辄数百行的INPUT使得入门极其困难，非专业量化计算人士只能看看。或许有一天，有人开发出性能强大的多体理论模拟计算软件呢。也可以期待一手量子计算机的普及，实在是一劳永逸解决第一性原理计算的好方法。
+vasp主要运用密度泛函理论（DFT）计算电子体系的能量，由于DFT计算的局限性，vasp最多同时处理10000个电子，难以处理上千原子的巨大体系，尤其难以处理不规则巨型原子团，在运用vasp计算时，要构建好primitive cell & superlattice，并控制好晶格常数和原子数量。除了vasp，CP2K Linear Scaling Self Consistent Field Method和BigDFT等更适合进行上千甚至上万原子体系的计算，但是动辄数百行的INPUT使得入门极其困难，非专业量化计算人士只能望洋兴叹。或许有一天，有人开发出性能强大的多体理论模拟计算软件呢。也可以期待一手量子计算机的普及，实在是一劳永逸解决第一性原理计算的好方法。
 
 
 ### 联系方式
