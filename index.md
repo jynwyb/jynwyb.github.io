@@ -2,9 +2,8 @@
 
 打开[bilibili](https://www.bilibili.com/) 享受美好生活
 
-或者打开[Scopus](https://www.scopus.com/search/form.uri?zone=TopNavBar&origin=resultslist&display=basic#basic)
-
-[web of science](https://www.webofscience.com/wos/alldb/basic-search)来看看文献
+或者打开[Scopus] (https://www.scopus.com/search/form.uri?zone=TopNavBar&origin=resultslist&display=basic#basic)、
+[科学网] （https://www.webofscience.com/wos/alldb/basic-search）来看看文献
 
 或者学习一些有用的知识：
 
