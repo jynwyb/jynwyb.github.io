@@ -2,8 +2,7 @@
 
 打开[bilibili](https://www.bilibili.com/) 享受美好生活
 
-或者打开[Scopus] (https://www.scopus.com/search/form.uri?zone=TopNavBar&origin=resultslist&display=basic#basic)、
-[科学网] （https://www.webofscience.com/wos/alldb/basic-search）来看看文献
+或者打开[Scopus](https://www.scopus.com/search/form.uri?zone=TopNavBar&origin=resultslist&display=basic#basic)、[科学网](https://www.webofscience.com/wos/alldb/basic-search)来看看文献
 
 或者学习一些有用的知识：
 
@@ -41,4 +40,6 @@ vasp主要运用密度泛函理论（DFT）计算电子体系的能量，由于D
 E-mail：13255546653@163.com、21213010014@m.fudan.edu.cn
 
 QQ:995437678
+
+感谢关注
 
