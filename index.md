@@ -20,8 +20,8 @@
 
 [3dmax应用](https://space.bilibili.com/26665449?spm_id_from=333.788.b_765f7570696e666f.1)
 
-### vasp笔记-通过mpi并行计算PBE泛函能带
-
+### vasp笔记
+通过mpi并行计算PBE泛函能带方法
 依次运行如下代码
 ```通过mpi并行计算PBE泛函能带
 ulimit -s unlimited 
