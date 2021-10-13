@@ -1,10 +1,10 @@
 ## 欢迎
 
-打开[bilibili](https://www.bilibili.com/) 享受美好生活
+打开[bilibili](https://www.bilibili.com/) 开始摆烂
 
-或者打开[Scopus](https://www.scopus.com/search/form.uri?zone=TopNavBar&origin=resultslist&display=basic#basic)、[科学网](https://www.webofscience.com/wos/alldb/basic-search)来看看文献
+或者打开[Scopus](https://www.scopus.com/search/form.uri?zone=TopNavBar&origin=resultslist&display=basic#basic)、[科学网](https://www.webofscience.com/wos/alldb/basic-search)提高文学修养
 
-或者学习一些有用的知识：
+或者学习一些无用的知识：
 
 [数电](https://www.bilibili.com/video/BV18p411Z7ce?from=search&seid=15000188297364473279&spm_id_from=333.337.0.0)
 
@@ -32,7 +32,7 @@ mpirun -np 48 /opt/vasp/vasp.5.4.4/bin/vasp_std
 cp -f KPATH.in KPOINTS
 
 ```
-vasp主要运用密度泛函理论（DFT）计算电子体系的能量，由于DFT计算的局限性，vasp最多同时处理10000个电子，难以处理上千原子的巨大体系，尤其难以处理不规则巨型原子团，在运用vasp计算时，要构建好primitive cell & superlattice，并控制好晶格常数和原子数量。除了vasp，CP2K Linear Scaling Self Consistent Field Method和BigDFT等更适合进行上千甚至上万原子体系的计算，但是动辄数百行的INPUT使得入门极其困难，非专业量化计算人士只能望洋兴叹。或许有一天，有人开发出性能强大的多体理论模拟计算软件呢。也可以期待一手量子计算机的普及，实在是一劳永逸解决第一性原理计算的好方法。
+vasp主要运用密度泛函理论（DFT）计算电子体系的能量，由于DFT计算的局限性，vasp最多同时处理10000个电子，难以处理上千原子的巨大体系，尤其难以处理不规则巨型原子团，在运用vasp计算时，要构建好primitive cell & superlattice，并控制好晶格常数和原子数量。除了vasp，CP2K Linear Scaling Self Consistent Field Method和BigDFT等更适合进行上千甚至上万原子体系的计算。
 
 
 ### 联系方式
