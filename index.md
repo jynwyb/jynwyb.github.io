@@ -34,6 +34,11 @@ cp -f KPATH.in KPOINTS
 ```
 vasp主要运用密度泛函理论（DFT）计算电子体系的能量，由于DFT计算的局限性，vasp最多同时处理10000个电子，难以处理上千原子的巨大体系，尤其难以处理不规则巨型原子团，在运用vasp计算时，要构建好primitive cell & superlattice，并控制好晶格常数和原子数量。除了vasp，CP2K Linear Scaling Self Consistent Field Method和BigDFT等更适合进行上千甚至上万原子体系的计算。
 
+### 数电笔记
+
+#### CMOS工艺设计原理
+
+下拉部分接地，均为pMOS管（示意图带圈）,逻辑表达式中带反(如A'+B')；上拉部份接VDD，均为nMOS管，逻辑表达式不带反（如A+B）
 
 ### 联系方式
 
