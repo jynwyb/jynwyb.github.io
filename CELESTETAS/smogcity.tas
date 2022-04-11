@@ -1,0 +1,397 @@
+RecordCount: 3861
+
+console load ChapterMiniCollab2021/ABuffZucchini/SmogCity
+   1
+
+#Start
+ 190
+
+#lvl_ABuffZucchini_SmogCity_00
+   1,R
+   8,R,V
+   1,R,J
+   7,R,D
+   1,R
+   1,R,J
+  11,R,U,V
+   8,R,J,G
+  24,R
+   8,R,V
+   1,R,J
+   5,R,D
+  40
+
+#lvl_ABuffZucchini_SmogCity_01
+   1,R,D
+  10,R,J
+   6,R
+
+
+   2,R,G
+   2,R,J,G
+  10,R,K,G
+   3,R
+
+  14,R,V
+   8,R,D
+   1,L,D
+
+   1,J
+  12,K,G
+  12,R,J
+  13,R,G
+   7,R,J,G
+   8,L
+  12,R,G
+  17,J
+
+  11,R,G
+  25,J,G
+   1
+   5,R,D
+   1,D
+   5,R,J
+   9,L,J
+   1,L,K,G
+   5,L,J,G
+   1,L,D
+   4,L,J
+   1,L,K,G
+   9,L,J,G
+   3
+  14,L,U,C
+   3,L,D
+   3
+  14,L,V
+  11,L,J
+   5,L,D
+  11,L,D,V
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+  14,L,D,V
+   1,L,J
+   9,L,D,V
+  40
+
+#lvl_ABuffZucchini_SmogCity_01
+   5,L,D,V
+   1,L,J
+   1,L,D
+  14,D,V
+   4,L
+   8,R,V
+   1,L,J
+   7,L,D
+   1,L,J
+  16,L,D
+  30,L,G
+   9,L,J,G
+   6,L
+   1,R
+   1,J
+   1,K,G
+  14,L,D,V
+   6,L
+   2
+   3
+  11,L,U,V
+   2,L,J,G
+  23,L,K,G
+   1,J
+   1,D
+   1,J
+  14,D
+   4,L,D
+   1,D
+  14,L,U,C
+   4
+  14,L,V
+  13,L
+  14,L,U,V
+  13,L,D
+   4,L,V
+   1,L,J
+   7,L,D
+  13,L,J
+   1,J
+   1,L,J
+  10,R,V
+   1,L,J
+   7,L,D
+   5,L,J
+   5,L,U,C
+  40
+
+#lvl_ABuffZucchini_SmogCity_03
+   9
+   1,R,J,G
+   8,L,J,G
+  10,L
+  13,L,J
+  14,L,V
+  13,L
+   3
+  14,U,C
+   1,L,J
+  40
+
+#lvl_ABuffZucchini_SmogCity_03
+   4,R
+   1,K,G
+   1
+   5,L
+  14,L,C
+   2,L,G
+   2
+   2,J,G
+   1,R,J
+  24,L,J
+   9,L,G
+   9,J
+   3,L,J
+   7,L
+   2
+  15,L,C
+   1,L,G
+  10,D
+   2,L,D
+   4,D
+   9,L,D
+   3,L
+   1,R
+   3
+  14,L,V
+  10,L
+   5,L,J,G
+   7,L,D
+   1,L,G
+  20,L,U,G
+  12,L,G
+   3,L,D,G
+   1,L,J,G
+   1,R,J
+   1,R,K
+  24,R,J
+  14,R,V
+  14,R,D
+   4,R,V
+   1,R,J
+   6,R,D
+   6,R,J
+  15,U,C
+  18,R,J
+  10,K
+   9,J
+  40
+
+#lvl_ABuffZucchini_SmogCity_05
+   1,J,G
+   4,R
+   4,L
+   2,L,J
+  10,R,V
+   6,R,J
+   3,R,D
+   1,R,J
+   1,R,G
+  13,R,K,G
+  11,R,V
+   4,R
+   5,R,D,C
+   3
+   3,R
+   6
+  11,R,D
+  14,R,U,C
+   1,R,J,G
+   1,L
+   8,R,G
+   3,R
+   1,R,G
+   6,R,J
+   5,R,K,G
+  15,D
+   2,R,D
+   2,R
+  12
+  13,R,C
+   8,R,J
+   3,J
+   1
+   1,J
+  15,U,C
+   1,L
+   1,L,J
+   4,L
+   4,R
+   1,R,J
+  12,R,D
+   8,R,V
+   1,R,J
+   7,R,D
+   8,R,J
+   8,R,D,V
+  40
+
+#lvl_ABuffZucchini_SmogCity_06_b
+   7
+  11,R,J
+   1,R,D
+  16,R,J
+  14,R,V
+  15,R
+  13
+   4,L
+  15,R,C
+  20,L,J
+   6,L,G
+  29,L,U,G
+   3,L,G
+   1,L,J,G
+   1,L,K,G
+   2,L,J,G
+   3,L,K,G
+  10,L,C
+   3,R,J
+   8,R,D
+   8
+  14,L,V
+  21,L,J
+  14,L,U,V
+   1
+  10,J
+   1,R,J
+   7,K
+   7,J
+   7,K
+   4,R,J,G
+   1,K
+
+  40
+
+#lvl_ABuffZucchini_SmogCity_07_b
+   6,L,J
+   1,L,K,G
+   7,L,J,G
+   1,L,J
+   4,L,D
+   9,R,V
+   1,L,J
+   7,L,D
+  25,R,J
+  14,R,U,C
+   4,R
+   2,L
+   7,R,U,V
+  14,L
+  14,L,U,V
+   2,L
+  10,L,J,G
+   6,K,G
+   1,R,K
+   1,K
+  10,L,J,G
+  42,R,J
+   1,R,G
+  12,R,J,G
+  20,R,U,G
+   5,R,J,G
+   9,L,C
+  22,L,K
+   3
+
+  14,U,C
+   8,L,J
+   2,L,K,G
+   7,L
+   4,L,V
+   1,L,J
+   7,L,D
+   1,L,J
+   2,L,D
+  14,L,D,V
+  40
+
+#lvl_ABuffZucchini_SmogCity_08
+   1,L,J
+  11,L,D,V
+   1,L,J
+   3,L,D
+  12,L,D,V
+   2,L,J
+   1,L,K,G
+   4,L,J,G
+   4,L
+   5,D
+   4,L,D
+  14,U,V
+  10,R,D
+   1,L,D
+   6,L
+  17,L,J
+  13,L,U,V
+   3
+   2,L
+
+  10,L,D,V
+  20,L,J
+  20,L,D
+   5,L
+  14,L,V
+   7,L
+  38,L,G
+   1,L,J,G
+   1,L,K,G
+   9,L,J,G
+   4,L
+   3
+  14,L,D,V
+  30,L,J
+  10,L,V
+   7,L,D
+  14,L,D,V
+   5,R
+  14,D,V
+   5,R,D
+   5,D
+   3,L
+   1,L,D
+   1,L
+  20,L
+  14,L,U,C
+   9,L
+   7,L,G
+  17,L,U,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   3,L,K,G
+
+   7,L
+   1,L,J
+  13,L,U,V
+   2,L,J,G
+  10,L,D
+  40
+#lvl_ABuffZucchini_SmogCity_09
+   1,L,D
+   1,L,J
+   2,L,D
+  18,L,D,V
+   1,L,J
+   1,L,D
+  18,L,D,V
+   1,L,J
+  24,L,D,V
+   4,L,J
+
+   1,S
+   1,D,J
+
+
+
+
+
